@@ -1,0 +1,19 @@
+From: Security Alert <security-alert@example.com>
+To: smitborkhetaria@gmail.com
+Subject: Urgent: Your account will be suspended
+
+Received: from suspicious.example.net
+Authentication-Results: spf=fail; dkim=fail; dmarc=fail
+
+Dear User,
+
+We detected unusual activity on your account.
+
+Your account will be suspended within 24 hours unless you verify your information immediately.
+
+Please verify your account:
+http://example.invalid/verify-account
+
+Failure to verify your account may result in permanent suspension.
+
+Security Team

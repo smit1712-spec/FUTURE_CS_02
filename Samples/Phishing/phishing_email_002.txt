@@ -1,0 +1,18 @@
+From: Account Security <security@example.com>
+To: smitborkhetaria@gmail.com
+Subject: URGENT!!! Verify your account immediately
+
+Authentication-Results: spf=fail; dkim=fail; dmarc=fail
+
+Dear Customer,
+
+URGENT! Your account has been selected for security verification.
+
+You must verify your account immediately or your access may be suspended.
+
+Click here to verify:
+http://example.invalid/login
+
+Confirm your username and password to continue.
+
+Security Department
